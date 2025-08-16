@@ -21,7 +21,7 @@ Um jogo simples e divertido onde você tenta adivinhar o número secreto gerado 
 
 ## 📂 Acesso ao projeto 
 
-* Aqui você pode ter acesso ao código do projeto https://github.com/Luiz-vqs/numerosecreto-github-/tree/main
+* Aqui você pode ter acesso ao código do projeto https://github.com/Luiz-vqs/numerosecreto-github-/tree/main 
 
 # 📎 Abrir e rodar o projeto 
 
