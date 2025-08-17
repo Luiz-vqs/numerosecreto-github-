@@ -29,7 +29,8 @@ Um jogo simples e divertido onde você tenta adivinhar o número secreto gerado 
 
 # 🤖 Tecnologias utilizadas 
 
-* HTML and JavaScript
+* HTML
+* JavaScript 
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
