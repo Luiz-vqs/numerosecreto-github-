@@ -23,9 +23,6 @@ Um jogo simples e divertido onde você tenta adivinhar o número secreto gerado 
 
 * Aqui você pode ter acesso ao código do projeto https://github.com/Luiz-vqs/numerosecreto-github-/tree/main 
 
-# 📎 Abrir e rodar o projeto 
-
-* Jogue por aqui http://127.0.0.1:5500/index.html
 
 # 🤖 Tecnologias utilizadas 
 
